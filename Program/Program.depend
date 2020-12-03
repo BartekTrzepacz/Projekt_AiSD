@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606587609 source:c:\users\btrze\onedrive\pulpit\projekt_aisd\program\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<math.h>
+
